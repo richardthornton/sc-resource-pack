@@ -1,0 +1,14 @@
+{
+ "parent": "item/generated",
+ "textures": {
+  "layer0": "item/iron_nugget"
+ },
+ 
+ "overrides": [
+  {"predicate": {"custom_model_data":1}, "model": "block/custom/stagecraft_trophy"},
+  {"predicate": {"custom_model_data":2}, "model": "block/custom/stagecraft_trophy_2"},
+  {"predicate": {"custom_model_data":3}, "model": "block/custom/sector_credit"},
+  {"predicate": {"custom_model_data":4}, "model": "block/custom/beetlerichard_trophy"},
+  {"predicate": {"custom_model_data":5}, "model": "block/custom/coffinbac"}
+ ]
+}
