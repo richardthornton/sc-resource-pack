@@ -1,0 +1,22 @@
+Version 0.1.2, 2024-06-27
+----------------------------------
+ - Added BeetleRichard Trophy (Iron Nugget, Model 4) for Admin
+ - Added Bac Nether Dressing Room model (Iron Nugget, Model 5) for Bacarra
+
+
+Version 0.1.1, 2024-06-15
+----------------------------------
+ - Added StageCraft Stage Trophy (Carved Pumpkin, Model 1) for Admin
+ - Added Bacscalibur (Custom-named Diamond/Netherite Sword) for Bacarra
+ - Added *SC01-E* (Custom-named Elytra) for Bacarra/Krazzie
+ - Added *SC02-E* (Custom-named Elytra) for Bacarra/Krazzie
+ - Added *SC01-H* (Custom-named Helmet) for Bacarra/Krazzie
+
+
+Version 0.1.0, 2024-06-13
+----------------------------------
+ - Added StageCraft Pillar Star Trophy (Iron Nugget, Model 1) for Admin
+ - Added StageCraft Pillar Richard Trophy (Iron Nugget, Model 2) for Admin
+ - Added SectorCredits (Iron Nugget, Model 3) for Bacarra/Krazzie
+ - Added Postmaster (custom villager skin) for Admin
+ - Added Richard Mooshrooms (custom mob skin) for Admin
